@@ -1,0 +1,16 @@
+span.mt_btn_spc{
+	margin: 10px 5px;
+	display: block;
+}
+
+a.mt_addon_btn{
+    padding: 12px 24px;
+    line-height: 22px;
+    border-radius: 100px;
+    font-weight: 400;
+    box-shadow: inherit;
+}
+a.mt_addon_btn:hover{
+    text-decoration: underline;
+    box-shadow: inherit;
+}
